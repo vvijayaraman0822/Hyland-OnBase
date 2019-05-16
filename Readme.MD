@@ -68,5 +68,15 @@ OnBase offers multiple ways to access documents and data easily.
 # Internet Information Services (IIS)
 
 ### What is IIS and when is it used?
+IIS is a web server that runs on the .NET platform on the Windows OS. If you want to host applications on a server that everybody can use, then IIS comes into play. 
+
+### What protocols does it support?
+It supports HTTP, HTTPS, FTP, FTPS, SMTP, etc.
+
+### What is Application Pool in IIS?
+They are used to seperate different workers accessing the same IIS resources and configuration. They are used to isolate our web applications for better security, performance and to keep running without affecting each other. 
+
+### What is the name of the Default Appliaction Pool in IIS?
+It is called DefaultAppPool.
 
 
