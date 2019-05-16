@@ -14,4 +14,8 @@ Anywhere, any way - It could be deployed On-Premises and in the Cloud. Supports 
 - Customer driver innovation - 85%
 - Years experience - 25+
 
+## TECHNICAL KNOWLEDGE 
+
+### 
+
 
