@@ -10,8 +10,8 @@ Low code configuration - It reduces developer time with very limited code which 
 Anywhere, any way - It could be deployed On-Premises and in the Cloud. Supports mobile devices and integrates exisiting applications.
 
 ### What are its statistics?
-Customer retention rate - 96% \n
-Customer driver innovation - 85%
-Years experience - 25+
+- Customer retention rate - 96% 
+- Customer driver innovation - 85%
+- Years experience - 25+
 
 
