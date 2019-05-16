@@ -27,6 +27,14 @@ Both help you connect to a remote computer. Proxies hide your IP addresses by ac
 
 VPN also acts as a middlemen between the computer and the server but it goes through a heavily ecrypted tunnel between the VPN Server and the computer remote network. This is ideal to use if the information, security and privacy is of high importance. 
 
+### What is a Firewall?
+It is a system designed to prevent unauthorized access to or from a private network. It monitors incoming and outgoing network traffic and decides whether to allow or block specific traffic based on a defined set of security rules.
+
+### What is RAID?
+It is a data storage technique which combines multiple physical hard disk drives into one for the purpose of data redundancy. 
+- Raid 0 - 
+
+
 ## ONBASE SPECIFIC KNOWLEDGE
 
 ###
