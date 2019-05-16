@@ -23,6 +23,13 @@ HTTP is a means of communcation that establishes a connection between the client
 Domian Name System is kind of like a phone book for the internet. It associates various information with domain names and their addresses. 
 
 ### What is the difference between a proxy and a VPN?
+Both help you connect to a remote computer. Proxies hide your IP addresses by acting as a middlemen in the flow of internet traffic so you appear to be using it from a different location. For example, if you are trying to access a region restricted Youtube video, then Proxy is a good choice. They only act as a middlemen, they do not strip away your identity. 
+
+VPN also acts as a middlemen between the computer and the server but it goes through a heavily ecrypted tunnel between the VPN Server and the computer remote network. This is ideal to use if the information, security and privacy is of high importance. 
+
+## ONBASE SPECIFIC KNOWLEDGE
+
+###
 
 
 
