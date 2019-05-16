@@ -32,12 +32,33 @@ It is a system designed to prevent unauthorized access to or from a private netw
 
 ### What is RAID?
 It is a data storage technique which combines multiple physical hard disk drives into one for the purpose of data redundancy. 
-- Raid 0 - 
+- RAID 0 - Striping (Data is split into multiple blocks to offer superiod I/O performance.
+- RAID 1 - Mirroring (Data is copied exactly to another drive in case of data backup.
 
+### TCP vs IP?
+IP is responsible for the logical addressing whereas TCP makes sure the packets are delivered successfully. 
 
 ## ONBASE SPECIFIC KNOWLEDGE
 
-###
+### What Enterprise applications are supported by OnBase?
+Oracle E-Business Suite, SAP, Workday, PeopleSoft, Microsoft Dynamics, CAD Services, Infor Lawson, Deltek, ESRI ArcGIS and JD Edward EnterpriseOne.
+
+### Where are files stored in OnBase?
+OnBase offers a variety of choices as to where and how your files will be stored and managed, from simple network file shares on Windows or Linux file servers to purpose-built storage devices.
+
+### Where to find Delete files in OnBase?
+In the OnBase client, click Admin >> Utilities >> Document Maintenance to begin. Document Maintence is very similar to Recycle Bin found on Windows. 
+
+### What are its file archiving and storage solutions?
+EMC Centera, IBM Tivoli, Kom Networks KOMpliance, Document transfer and CD/DVD/Blu-ray authoring and export.
+
+### How to access documents and data?
+OnBase offers multiple ways to access documents and data easily. 
+- Document Retrieval allows keyword-based searching of all available documents to a user.
+- Custom Queries allow business users to search document types needed for specific business functions, simply by selecting commonly used keyword criteria.
+- Cross References can be used to link groups of document types together if one or more specific keyword values match. Very similar to inner join in a DBMS.
+- File Cabinets and Folders - Documents can be grouped together using File Cabinets and Folders.
+
 
 
 
