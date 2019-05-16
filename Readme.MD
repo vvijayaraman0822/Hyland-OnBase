@@ -65,6 +65,8 @@ OnBase offers multiple ways to access documents and data easily.
 - Enterprise Integration Server - It provides real-time, data-level integration with other business applications using a configurable user interface that eliminates the need for custom code.
 - Create your own Integration - The OnBase suite of APIs gives you the flexibility to create your own integrations with OnBase, providing your programmers with access points to integrate with OnBase documents, processes and more.
 
+# Internet Information Services (IIS)
 
+### What is IIS and when is it used?
 
 
