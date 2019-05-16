@@ -59,6 +59,11 @@ OnBase offers multiple ways to access documents and data easily.
 - Cross References can be used to link groups of document types together if one or more specific keyword values match. Very similar to inner join in a DBMS.
 - File Cabinets and Folders - Documents can be grouped together using File Cabinets and Folders.
 
+### How to integrate application with OnBase?
+- Service Oriented Architecture (SOA) Integration - SOA enables business applications and databases to exchange information in a standardized format using centralized web services using SOAP and REST.
+- Enterprise Integration Server - It provides real-time, data-level integration with other business applications using a configurable user interface that eliminates the need for custom code.
+- Create your own Integration - The OnBase suite of APIs gives you the flexibility to create your own integrations with OnBase, providing your programmers with access points to integrate with OnBase documents, processes and more.
+
 
 
 
