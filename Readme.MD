@@ -68,7 +68,7 @@ OnBase offers multiple ways to access documents and data easily.
 # Internet Information Services (IIS)
 
 ### What is IIS and when is it used?
-IIS is a web server that runs on the .NET platform on the Windows OS. If you want to host applications on a server that everybody can use, then IIS comes into play. 
+IIS is a web server that runs on the .NET platform on the Windows OS. If you want to host applications on a server that everybody can use, then IIS comes into play. It can be managed remotely with the use of CLI or PowerShell. 
 
 ### What protocols does it support?
 It supports HTTP, HTTPS, FTP, FTPS, SMTP, etc.
@@ -76,7 +76,31 @@ It supports HTTP, HTTPS, FTP, FTPS, SMTP, etc.
 ### What is Application Pool in IIS?
 They are used to seperate different workers accessing the same IIS resources and configuration. They are used to isolate our web applications for better security, performance and to keep running without affecting each other. 
 
-### What is the name of the Default Appliaction Pool in IIS?
+### What is the name of the Default Application Pool in IIS?
 It is called DefaultAppPool.
+
+### What is Recycling of Aplication Pool?
+Recycling application pool means recycle the worker process and the memory used for web application. By default, they recycle every 29 hours. 
+
+### What are the main layers of IIS?
+Two type of layers are Kernel Mode and User Mode. 
+
+### What uses memory in the process?
+Everything on the stack and heap—static variables and properties, anything in the memory cache, any objects that are referenced by another object, any blocks of memory waiting to be garbage collected.
+
+### What is overlapped recycle?
+No new requests would be handled until the current requests completed or the configurable timeout period elapsed (90 seconds by default).
+
+### IIS CLI Commands? 
+- Display tasks - findweb and disptree
+- Find Virtual website - findweb -c MachineName www.DomainName.com
+- Display Admin Tree - disptree -a IIS://ComputerName OR disptree -a IIS://LocalHost/w3svc -n
+- Create Tasks - mkw3site and mkwebdir
+- Create Virtual website - Mkw3site -r RootDirectory DriveLetter:\FolderName -t NewServerName -h HostName www.MyNewWebsite.com
+- Create Virtual web dir - Mkwebdir -c ComputerName -w "WebSiteName" -v DirectoryName,DriveLetter:\FolderName
+- Stop a Virtual Site Without Interrupting the Entire Web Service - adsutil STOP_SERVER W3SVC/Server#
+- Start a Virtual Site Without Interrupting the Entire Web Service - adsutil START_SERVER W3SVC/Server#
+
+
 
 
