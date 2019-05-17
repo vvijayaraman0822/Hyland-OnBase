@@ -91,7 +91,7 @@ Everything on the stack and heap—static variables and properties, anything in 
 ### What is overlapped recycle?
 No new requests would be handled until the current requests completed or the configurable timeout period elapsed (90 seconds by default).
 
-### IIS CLI Commands? 
+### IIS CLI Commands? (Windows 2000)
 - Display tasks - findweb and disptree
 - Find Virtual website - findweb -c MachineName www.DomainName.com
 - Display Admin Tree - disptree -a IIS://ComputerName OR disptree -a IIS://LocalHost/w3svc -n
