@@ -15,30 +15,6 @@ It is a enterprise content management and process management software suite deve
 - Customer driver innovation - 85%
 - Experience - 25+ years
 
-## TECHNICAL KNOWLEDGE 
-
-### Difference between HTTP and HTTPS?
-HTTP is a means of communcation that establishes a connection between the client and the server using a web browser. HTTPS is HTTP but secure, because it uses SSL to move data. SSL(Secure Sockets Layer) is an encrypted link between server and the browser that ensure the data passed between them are secure. 
-
-### What is DNS?
-Domian Name System is kind of like a phone book for the internet. It associates various information with domain names and their addresses. 
-
-### What is the difference between a proxy and a VPN?
-Both help you connect to a remote computer. Proxies hide your IP addresses by acting as a middlemen in the flow of internet traffic so you appear to be using it from a different location. For example, if you are trying to access a region restricted Youtube video, then Proxy is a good choice. They only act as a middlemen, they do not strip away your identity. 
-
-VPN also acts as a middlemen between the computer and the server but it goes through a heavily ecrypted tunnel between the VPN Server and the computer remote network. This is ideal to use if the information, security and privacy is of high importance. 
-
-### What is a Firewall?
-It is a system designed to prevent unauthorized access to or from a private network. It monitors incoming and outgoing network traffic and decides whether to allow or block specific traffic based on a defined set of security rules.
-
-### What is RAID?
-It is a data storage technique which combines multiple physical hard disk drives into one for the purpose of data redundancy. 
-- RAID 0 - Striping (Data is split into multiple blocks to offer superiod I/O performance.
-- RAID 1 - Mirroring (Data is copied exactly to another drive in case of data backup.
-
-### TCP vs IP?
-IP is responsible for the logical addressing whereas TCP makes sure the packets are delivered successfully. 
-
 ## ONBASE SPECIFIC KNOWLEDGE
 
 ### What Enterprise applications are supported by OnBase?
@@ -64,6 +40,30 @@ OnBase offers multiple ways to access documents and data easily.
 - Service Oriented Architecture (SOA) Integration - SOA enables business applications and databases to exchange information in a standardized format using centralized web services using SOAP and REST.
 - Enterprise Integration Server - It provides real-time, data-level integration with other business applications using a configurable user interface that eliminates the need for custom code.
 - Create your own Integration - The OnBase suite of APIs gives you the flexibility to create your own integrations with OnBase, providing your programmers with access points to integrate with OnBase documents, processes and more.
+
+## TECHNICAL KNOWLEDGE 
+
+### Difference between HTTP and HTTPS?
+HTTP is a means of communcation that establishes a connection between the client and the server using a web browser. HTTPS is HTTP but secure, because it uses SSL to move data. SSL(Secure Sockets Layer) is an encrypted link between server and the browser that ensure the data passed between them are secure. 
+
+### What is DNS?
+Domian Name System is kind of like a phone book for the internet. It associates various information with domain names and their addresses. 
+
+### What is the difference between a proxy and a VPN?
+Both help you connect to a remote computer. Proxies hide your IP addresses by acting as a middlemen in the flow of internet traffic so you appear to be using it from a different location. For example, if you are trying to access a region restricted Youtube video, then Proxy is a good choice. They only act as a middlemen, they do not strip away your identity. 
+
+VPN also acts as a middlemen between the computer and the server but it goes through a heavily ecrypted tunnel between the VPN Server and the computer remote network. This is ideal to use if the information, security and privacy is of high importance. 
+
+### What is a Firewall?
+It is a system designed to prevent unauthorized access to or from a private network. It monitors incoming and outgoing network traffic and decides whether to allow or block specific traffic based on a defined set of security rules.
+
+### What is RAID?
+It is a data storage technique which combines multiple physical hard disk drives into one for the purpose of data redundancy. 
+- RAID 0 - Striping (Data is split into multiple blocks to offer superiod I/O performance.
+- RAID 1 - Mirroring (Data is copied exactly to another drive in case of data backup.
+
+### TCP vs IP?
+IP is responsible for the logical addressing whereas TCP makes sure the packets are delivered successfully. 
 
 # Internet Information Services (IIS)
 
