@@ -1,6 +1,6 @@
 # Hyland OnBase 
 ## Author - Vasudev Vijayaraman 
-This document is to simply assist users with the basic knowledge of HYLAND OnBase. I by no means claim to be an expert. I like exploring interesting software's that are in existence and this is one among them. 
+This document is to simply assist users with the basic knowledge of HYLAND OnBase. I by no means claim to be an expert. I like exploring interesting software's that are in existence and this is one among them. This document will be updated as and when needed. 
 
 ### What is Hyland OnBase?
 It is a enterprise content management and process management software suite developed by HYLAND to manage your content, services, processes and cases. It is currently used in the healthcare, financial, insurance, government, higher education and manufacturing industries. 
@@ -32,7 +32,7 @@ EMC Centera, IBM Tivoli, Kom Networks KOMpliance, Document transfer and CD/DVD/B
 ### How to access documents and data?
 OnBase offers multiple ways to access documents and data easily. 
 - Document Retrieval allows keyword-based searching of all available documents to a user.
-- Custom Queries allow business users to search document types needed for specific business functions, simply by selecting commonly used keyword criteria.
+- Custom Queries allow business users to search document types needed for specific business functions, simply by selecting commonly used  keyword criteria.
 - Cross References can be used to link groups of document types together if one or more specific keyword values match. Very similar to inner join in a DBMS.
 - File Cabinets and Folders - Documents can be grouped together using File Cabinets and Folders.
 
