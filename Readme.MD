@@ -80,7 +80,7 @@ They are used to seperate different workers accessing the same IIS resources and
 It is called DefaultAppPool.
 
 ### What is Recycling of Aplication Pool?
-Recycling application pool means recycle the worker process and the memory used for web application. By default, they recycle every 29 hours. 
+Recycling Application pool means recycle the worker process and the memory used for web application. By default, they recycle every 29 hours. 
 
 ### What are the main layers of IIS?
 Two type of layers are Kernel Mode and User Mode. 
